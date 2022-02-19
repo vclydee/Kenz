@@ -1,0 +1,148 @@
+<html>
+<head>
+<meta name="description"
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Cool Site</title>
+</head>
+<body>
+  <style>
+    h1 {
+  margin-top: 50px;
+}
+  </style>
+  
+<!--- Start of header --->
+ 
+    <nav>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#Ingredients">Go to Ingredients</a></li>
+      <li><a href="#Directions">Go to Directions</a></li>
+    </ul>
+    </nav>
+
+  <!--- End of header --->
+  <!--- Start of main content --->
+  <main>
+    
+  <header id="intro">
+  <h1> The Best Chocolate Recipe </h1>
+    
+    <section>
+    <img src="https://i.imgur.com/gqjBXGd.jpg" atl="Whole of chocolate cake on">
+    <h3>You, too, can enjoy this deliciousness</h3>
+   </section>
+  </header>
+  
+  
+   <article>
+    
+    <section id="blog-text">
+    <p>
+      A chocolate cake should be easy and fun to make at home with friends, family, or even your children. 
+      They could help you and learn how to make a chocolate cake too. It could be a perfect cake for a birthday party, friends to come over, or a Thanks giving and Christmas party dessert. 
+    </p>
+      <p>
+       The decadent dessert is great for chocolate lovers and will be a hit at your next party. 
+      The cake shouldn 't take you long to make it, but you will make a lot of mess doing the cake. 
+      Making a decision chocolate cracks cake would be a great treat that you will enjoy.
+      </p> 
+    </section>
+    </article>
+  
+  <article>
+    
+    <section>
+    
+    <section id="ingredients" class="card">
+        <h4>Ingredients</h4>
+        <ul>
+          <li>Deselect All</li>
+          <li>Butter, for greasing the pans</li>
+          <li>1 3/4 cups all-purpose flour, plus more for pans</li>
+          <li>2 cups sugar
+          <li>3/4 cups good cocoa powder</li>
+          <li>2 teaspoons baking soda</li>
+          <li>1 teaspoon baking powder</li>
+          <li>1 teaspoon kosher salt</li>
+          <li>1 cup buttermilk, shaken</li>
+          <li>1/2 cup vegetable oil</li>
+          <li>2 extra-large eggs, at room temperature</li>
+          <li>1 teaspoon pure vanilla extract</li>
+          <li>1 cup freshly brewed hot coffee</li>
+          <li>Chocolate Buttercream Frosting, recipe follows</li>
+       </ul>
+          
+          <h4>Chocolate Frosting:</h4>
+          <ul>
+            <li>6 ounces good semisweet chocolate (recommended: Callebaut)</li>
+            <li>1/2 pound (2 sticks) unsalted butter, at room temperature</li>
+            <li>1 extra-large egg yolk, at room temperature</li>
+            <li>1 teaspoon pure vanilla extract</li>
+            <li>1 1/4 cups sifted confectioners' sugar</li>
+            <li>1 tablespoon instant coffee powder</li>
+         </ul>
+         </section>
+      
+    <section>
+    
+    <section id="directions" class="card">
+      <h4>Directions</h4>
+
+      <ol>
+        <li>Preheat the oven to 350 degrees F.
+          Butter two 8-inch x 2-inch round cake pans.
+          Line with parchment paper, then butter and flour the pans.
+        </li>
+      
+      <li>
+        Sift the flour, sugar, cocoa, baking soda, baking powder, and salt into the bowl of an electric mixer fitted with a paddle attachment and mix on low speed until combined. 
+        In another bowl, combine the buttermilk, oil, eggs, and vanilla. 
+        With the mixer on low speed, slowly add the wet ingredients to the dry. 
+        With mixer still on low, add the coffee and stir just to combine, scraping the bottom of the bowl with a rubber spatula. 
+        Pour the batter into the prepared pans and bake for 35 to 40 minutes, until a cake tester comes out clean. 
+        Cool in the pans for 30 minutes, then turn them out onto a cooling rack and cool completely.
+        </li>
+    
+      <li>
+        Place 1 layer, flat side up, on a flat plate or cake pedestal. 
+        With a knife or offset spatula, spread the top with frosting. 
+        Place the second layer on top, rounded side up, and spread the frosting evenly on the top and sides of the cake.
+      </li>
+    
+      <h3>Chocolate Frosting:</h3>
+    
+      <li>
+        Chop the chocolate and place it in a heat-proof bowl set over a pan of simmering water. 
+        Stir until just melted and set aside until cooled to room temperature.
+      </li>
+  
+      <li>
+        In the bowl of an electric mixer fitted with a paddle attachment, beat the butter on medium-high speed until light yellow and fluffy, about 3 minutes. 
+        Add the egg yolk and vanilla and continue beating for 3 minutes. 
+        Turn the mixer to low, gradually add the confectioners' sugar, then beat at medium speed, scraping down the bowl as necessary, until smooth and creamy. 
+        Dissolve the coffee powder in 2 teaspoons of the hottest tap water. 
+        On low speed, add the chocolate and coffee to the butter mixture and mix until blended. 
+        Don't whip! Spread immediately on the cooled cake.
+      </li>
+      </ol>
+    </section>
+     
+     
+    </article>
+      
+      <section>
+
+     <section id="lower-image">
+      <img id="slice" src="https://i.imgur.com/uAJIaPr.jpg" alt="Close-up cake shot">
+     </section>
+      
+   </main>
+  
+  <footer>
+    <p>Page created by Glydel Villarino</p>
+  </footer>
+  <!--- End of footer --->         
+</body>
+</html>
